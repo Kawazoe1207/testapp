@@ -9,7 +9,7 @@ android {
     defaultConfig {
         applicationId = "jp.ac.gifu_u.kawazoe.example.myapplication1"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 30
         versionCode = 1
         versionName = "1.0"
 
